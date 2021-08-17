@@ -1,0 +1,20 @@
+[
+	{
+		"id": "3",
+		"name": "name placeholder",
+		"description": "desc placeholder",
+		"price": 929.99
+	},
+	{
+		"id": "4",
+		"name": "Sony Playstation 4 Pro White Version",
+		"description": "The ultimate home entertainment center starts with PlayStation. Whether you are into gaming, HD movies, television, music",
+		"price": 399.99
+	},
+	{
+		"id": "db5e48b5-a8e1-4603-aaaf-a8528d47104d",
+		"name": "name placeholder",
+		"description": "desc placeholder",
+		"price": 100
+	}
+]
